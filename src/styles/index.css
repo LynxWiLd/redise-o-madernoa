@@ -1,0 +1,27 @@
+@import './fonts.css';
+@import './tailwind.css';
+@import './theme.css';
+
+.slick-dots li button:before {
+  color: white !important;
+  font-size: 12px !important;
+}
+
+.slick-dots li.slick-active button:before {
+  color: #56a927 !important;
+}
+
+.slick-prev,
+.slick-next {
+  z-index: 10;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: #56a927 !important;
+  font-size: 32px !important;
+}
+
+.slick-slide {
+  outline: none;
+}
