@@ -54,7 +54,7 @@ export function Catalog() {
   return (
     <div className="min-h-screen bg-[#fefefe]">
       <div className="bg-[#1c4421] relative h-[400px] flex items-center justify-center overflow-hidden text-white py-16 mb-8">
-        <div className="absolute inset-0 bg-[url('./fondos/maderas-artificiales.png')] bg-cover bg-center opacity-20" />
+        <div className="absolute inset-0 bg-[url('/fondos/maderas-artificiales.png')] bg-cover bg-center opacity-20" />
         <div className="max-w-7xl mx-auto px-4 text-center">
           <h1 className="text-5xl font-bold mb-4">Catálogo de Productos</h1>
           <p className="text-[#d4a373] text-lg font-medium">Calidad y variedad a tu disposición</p>

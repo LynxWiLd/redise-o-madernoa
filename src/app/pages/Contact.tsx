@@ -19,7 +19,7 @@ export function Contact() {
     <div className="min-h-screen bg-[#fefefe]">
       {/* Header */}
       <div className="bg-[#1c4421] text-white py-16 mb-16 relative h-[400px] flex items-center justify-center overflow-hidden">
-        <div className="absolute inset-0 bg-[url('./fondos/contact.png')] bg-cover bg-center opacity-20" />
+        <div className="absolute inset-0 bg-[url('/fondos/contact.png')] bg-cover bg-center opacity-20" />
         <div className="max-w-7xl mx-auto px-4 text-center">
           <h1 className="text-5xl font-bold mb-4">Contacto</h1>
           <p className="text-[#d4a373] text-lg font-medium">Estamos a tu disposición. Consúltanos lo que necesites.</p>
