@@ -297,7 +297,7 @@ const [sponsorsRef] = useEmblaCarousel({ loop: true }, [
               <Button variant="primary">Contactar Ahora</Button>
             </Link>
             <a
-              href="5493815230075"
+              href="https://wa.me/5493815230075"
               target="_blank"
               rel="noopener noreferrer"
             >
